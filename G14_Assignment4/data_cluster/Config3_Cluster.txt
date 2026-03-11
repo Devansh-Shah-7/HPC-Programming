@@ -1,0 +1,1 @@
+Config (NX=1000, NY=400): Total Interp Time = 35.200000
